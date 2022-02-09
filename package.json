@@ -33,7 +33,7 @@
         "singleQuote": true,
         "trailingComma": "es5"
     },
-    "name": "@devarista/react-debounce",
+    "name": "react-debounce",
     "author": "Arza Aldi K",
     "module": "dist/react-debounce.esm.js",
     "size-limit": [
