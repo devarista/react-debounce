@@ -48,7 +48,7 @@ To start using the `useDebounce()` hook, please follow these steps:
 ## Examples
 
 - GitHub Repo (Next.js) : <https://github.com/devarista/flickr-gallery-frontend>
-- Codesandbox : <https://github.com/devarista>
+<!-- - Codesandbox : <https://github.com/devarista> -->
 
 ## Contributing
 
